@@ -1,2 +1,1 @@
 RFG|VIP|2027-12-31|2055-08-31|99|mainadmin
-Check|99|2026-08-28|10|0|mainadmin
